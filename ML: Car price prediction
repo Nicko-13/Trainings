@@ -1,5 +1,0 @@
-In this project, I practiced the basic workflow of Machine Learning. The model predicts the price of a car based on various features. The information about the dataset available here.
-
-I used the k-nearest neighbors algorithm to build the model. Then, I evaluated the efficiency of the model. I used different types of validation techniques and metrics.
-
-The different techniques returned the same model parameters as the most efficient. But, the model needs further optimization based on the MAE/RMSE comparison.

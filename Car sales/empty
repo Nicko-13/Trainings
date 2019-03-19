@@ -1,0 +1,8 @@
+# Exploring-Ebay-Car-Sales-Data
+
+The aim of the project was to practice data cleaning techniques and conduct basic analysis of included used car listing. The following analysis was conducted:
+
+- dependence of price from a brand;
+- the most common brand/model combination;
+- dependence of a price from a mileage;
+- dependence of a price from a damage;
